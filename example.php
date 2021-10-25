@@ -1,6 +1,6 @@
 <?php
 
-require plugin_dir_path(__FILE__) . '../includes/class-splash-meta-box.php';
+require plugin_dir_path(__FILE__) . 'class-splash-meta-box.php';
 
 /**
  * Register meta box for the Splash Audio Player Post Type
